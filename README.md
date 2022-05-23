@@ -1,4 +1,5 @@
-- I'm orczhou, Zhou Zhenxing. (Ever in alibaba,known as nick 'supu')
+- I'm Zhou Zhenxing. 
+  - worked in alibaba/aliyun/taobao database team from 2009 to 2021,known as nick 'supu'
 - more about me https://www.orczhou.com
 
 <!---
